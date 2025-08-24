@@ -1,0 +1,13 @@
+.classes {
+  padding: 50px;
+  text-align: center;
+}
+.class-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 20px;
+}
+.class-card img {
+  width: 100%;
+  border-radius: 10px;
+}
