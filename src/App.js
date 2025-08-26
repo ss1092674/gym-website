@@ -16,12 +16,11 @@ import "./App.css";
 function App() {
   return (
     <Router>
-      <Navbar /> {/* Navbar will always be visible */}
+      <Navbar /> Navbar will always be visible
 
       <Routes>
         {/* Home Page */}
-        <Route
-          path="/" element={
+        <Route path="/" element={
             <>
               <Hero />
               <About />

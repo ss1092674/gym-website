@@ -13,7 +13,7 @@ export default function About() {
         </p>
       </div>
       <img
-        src="https://images.unsplash.com/photo-1594737625785-cf54a3b03e11"
+        src="https://tse4.mm.bing.net/th/id/OIP.MRqRaB6anbdGGXgxGwh9NQHaEl?rs=1&pid=ImgDetMain&o=7&rm=3"
         alt="Gym"
       />
     </section>

@@ -11,3 +11,11 @@
   width: 100%;
   border-radius: 10px;
 }
+.class-card {
+  transition: transform 0.3s ease; /* smooth effect */
+}
+
+.class-card:hover {
+  transform: scale(1.1); /* makes image 10% bigger */
+}
+
